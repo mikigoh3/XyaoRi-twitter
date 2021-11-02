@@ -27,7 +27,7 @@ JavaScript
 Installation method: 1. Install c ++ format file 2. Create and run a shortcut
 
 ```bash
-pip install MobiusHTML_package
+pip install XyaoRi_package
 ```
 
 # Usage
